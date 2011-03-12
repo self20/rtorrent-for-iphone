@@ -5,7 +5,7 @@ Proposed roadmap going forward with rtorrent for iPhone/smartphones - Any and al
 
 = Proposed Features =
 
-* This project uses code "borrowed" from rTWi (see http://rtwi.jmk.hu/wiki) - Clarify the status on whether that is cool or not, and maybe look into cleaning up that codebase and making it more specific for our purpose.
+  * This project uses code "borrowed" from rTWi (see http://rtwi.jmk.hu/wiki) - Clarify the status on whether that is cool or not, and maybe look into cleaning up that codebase and making it more specific for our purpose.
 
 * Rename the project so it isn't so platform specific? After all, it should work well with all capable smartphones
 
