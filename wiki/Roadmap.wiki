@@ -24,3 +24,5 @@ Proposed roadmap going forward with rtorrent for iPhone/smartphones - Any and al
   * Investigate further the possibility of not using the download to watchfolder approach
 
   * Statistics (possibly using the FLOT jquery plugin)
+
+  * Add ability to execute external sh script when torrent completes download (for example to encode video for iPhone)
