@@ -1,0 +1,26 @@
+= Introduction =
+
+Proposed roadmap going forward with rtorrent for iPhone/smartphones - Any and all feedback much appreciated
+
+
+= Proposed Features =
+
+* This project uses code "borrowed" from rTWi (see http://rtwi.jmk.hu/wiki) - Clarify the status on whether that is cool or not, and maybe look into cleaning up that codebase and making it more specific for our purpose.
+
+* Rename the project so it isn't so platform specific? After all, it should work well with all capable smartphones
+
+* Switch to jquerymobile when that thing finally gets released in a stable version
+
+* Filtering options. Show all active torrents. Show all torrents with the TV label
+
+* Manipulation: pause, resume, delete, etc. 
+
+* Verify URL's added and warn if it doesn't look like a .torrent  (Curl - check headers/extension)
+
+* Fix form submit so that you can use the iPhone keyboard to submit
+
+* Hunt down JS error when hitting refresh
+
+* Investigate further the possibility of not using the download to watchfolder approach
+
+* Statistics (possibly using the FLOT jquery plugin)
